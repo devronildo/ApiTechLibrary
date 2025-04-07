@@ -1,0 +1,622 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\usecases\\checkouts\\registerbookcheckoutusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\checkouts\\registerbookcheckoutusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\services\\loggeduser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\services\\loggeduser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\infraestructure\\security\\tokens\\access\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\security\\tokens\\access\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\usecases\\books\\filter\\filterbookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\books\\filter\\filterbookusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\techlibrary.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\techlibrary.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.exception\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.exception\\invalidloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\invalidloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.exception\\techlibraryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D09BB6-D36A-45F9-9292-052BC01C6C51}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\techlibraryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\infraestructure\\dataaccess\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\dataaccess\\techlibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\domain\\entities\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\domain\\entities\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\responses\\responsepaginationjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responsepaginationjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\responses\\responsebooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responsebooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\responses\\responsebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\responses\\responsebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\requests\\requestfilterbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\requests\\requestfilterbooksjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\requests\\requestloginjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\requests\\requestloginjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\infraestructure\\security\\cryptography\\bcryptalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\register\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\users\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.communication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53774C48-6D31-4A12-80FE-8A08CAD2C470}|TechLibrary.Communication\\TechLibrary.Communication.csproj|solutionrelative:techlibrary.communication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\ronil\\source\\repos\\techlibrary\\techlibrary.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A06711E-9C01-4D58-B0F5-E8EB6B1CF8AF}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\NovaPasta2\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TechLibrary.Api\\NovaPasta2\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\Security\\Tokens\\Access\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:49:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseRegisteredUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:19:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggedUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Services\\LoggedUser\\LoggedUserService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:19:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:33:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterBookCheckoutUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:25:37.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseErrorMessagesJson.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:57:39.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutsController.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\CheckoutsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:04:40.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoLoginUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAtwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:50:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:31:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:38:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:28:54.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilterBookUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBookUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:45:53.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Program.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:01:14.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TechLibrary.Api.http",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.http",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\TechLibrary.Api.http",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.http",
+              "RelativeToolTip": "TechLibrary.Api\\TechLibrary.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-01T14:12:11.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\NotFoundException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\NotFoundException.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:33:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\ConflictException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\ConflictException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\ConflictException.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:57:45.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:07:38.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TechLibraryException.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\TechLibraryException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\TechLibraryException.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\TechLibraryException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\TechLibraryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:01:44.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvalidLoginException.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\InvalidLoginException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\InvalidLoginException.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Exception\\InvalidLoginException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\InvalidLoginException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:01:32.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResponsePaginationJson.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponsePaginationJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponsePaginationJson.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponsePaginationJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponsePaginationJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:52:26.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RequestFilterBooksJson.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestFilterBooksJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Requests\\RequestFilterBooksJson.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestFilterBooksJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Requests\\RequestFilterBooksJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:12:09.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResponseBookJson.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseBookJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:50:04.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\Checkout.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Domain\\Entities\\Checkout.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\Checkout.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Domain\\Entities\\Checkout.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:06:48.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:57:31.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TechLibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Infraestructure\\DataAccess\\TechLibraryDbContext.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\DataAccess\\TechLibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Infraestructure\\DataAccess\\TechLibraryDbContext.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\DataAccess\\TechLibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:28:42.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResponseBooksJson.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBooksJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Responses\\ResponseBooksJson.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Responses\\ResponseBooksJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Responses\\ResponseBooksJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:48:37.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:19:51.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RequestUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Requests\\RequestUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:59:02.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RequestLoginJson.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestLoginJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Requests\\RequestLoginJson.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Requests\\RequestLoginJson.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Requests\\RequestLoginJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:43:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TechLibrary.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.csproj",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\TechLibrary.Api.csproj",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\TechLibrary.Api.csproj",
+              "RelativeToolTip": "TechLibrary.Api\\TechLibrary.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:50:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:31:26.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BCryptAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Infraestructure\\Security\\Cryptography\\BCryptAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:21:32.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:13:50.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:23:33.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\NovaPasta2\\.editorconfig",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\NovaPasta2\\.editorconfig",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\NovaPasta2\\.editorconfig",
+              "RelativeToolTip": "TechLibrary.Api\\NovaPasta2\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-01T17:51:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Class1.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communication\\Class1.cs",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Communication\\Class1.cs",
+              "RelativeToolTip": "TechLibrary.Communication\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:56:08.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ronil\\source\\repos\\TechLibrary\\TechLibrary.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TechLibrary.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T12:07:28.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
